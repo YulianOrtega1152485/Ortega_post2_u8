@@ -35,17 +35,17 @@ Se implementó la resta de números de 32 bits utilizando SUB y SBB, asegurando 
 
 Se implementó la suma de números en formato BCD utilizando la instrucción DAA para ajustar el resultado a un valor decimal válido.
 
-![Checkpoint 3](capturas/checkpoint3.png)
+![Checkpoint 3](capturas/checkpoint2.png)
 
 
 ## 4: Resta BCD con DAS
 
 Se implementó la resta en formato BCD utilizando DAS para ajustar correctamente el resultado.
 
-![Checkpoint 4](capturas/checkpoint3.png)
+![Checkpoint 4](capturas/checkpoint2.png)
 
 ## 5: Mini calculadora con MUL y DIV
 
 Se implementó una calculadora básica que realiza operaciones de multiplicación y división entre dígitos, manejando correctamente la conversión ASCII y validando la división por cero.
 
-![Checkpoint 5](capturas/checkpoint5.png)
+![Checkpoint 5](capturas/checkpoint3.png)
