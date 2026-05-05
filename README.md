@@ -24,3 +24,9 @@ Implementación de programas en ensamblador x86 que utilizan instrucciones aritm
 Se implementó la suma de dos números de 32 bits utilizando ADD para la parte baja y ADC para la parte alta, verificando la correcta propagación del acarreo.
 
 ![Checkpoint 1](capturas/checkpoint1.png)
+
+## 2: Resta de 32 bits con SBB
+
+Se implementó la resta de números de 32 bits utilizando SUB y SBB, asegurando la correcta propagación del préstamo entre palabras.
+
+![Checkpoint 2](capturas/checkpoint2.png)
