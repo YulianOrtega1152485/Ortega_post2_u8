@@ -16,3 +16,11 @@ Implementación de programas en ensamblador x86 que utilizan instrucciones aritm
 ## Tecnologías
 - NASM
 - DOSBox
+
+## Evidencias
+
+## 1: Suma de 32 bits con ADC
+
+Se implementó la suma de dos números de 32 bits utilizando ADD para la parte baja y ADC para la parte alta, verificando la correcta propagación del acarreo.
+
+![Checkpoint 1](capturas/checkpoint1.png)
